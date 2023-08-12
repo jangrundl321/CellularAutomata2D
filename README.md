@@ -1,6 +1,6 @@
 # CellularAutomata2D
 - currently unfinished
-contains very simplistic CellularAutomata Engine with example
+contains very simplistic CellularAutomata Engine with examples
 
 todo:
 - adding description
